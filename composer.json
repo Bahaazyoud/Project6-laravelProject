@@ -1,0 +1,8 @@
+{
+    "require-dev": {
+        "laravel/breeze": "^1.9"
+    },
+    "require": {
+        "laravel/socialite": "^5.5"
+    }
+}
